@@ -1,3 +1,3 @@
 # bot
 
-Telegram bot for HSE student-teacher interaction
+Telegram bot for student-teacher interaction.
